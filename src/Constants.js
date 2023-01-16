@@ -19,7 +19,7 @@ export const PROJECTS = [
     name: "Lambda Calculus Interpreter",
     technologyUsed: "Python, PLY",
     description: "Custom Luggage Tags and Passport Holders engraved with everywhere you've traveled and everywhere you will travel in the future.",
-    url: "#",
+    url: "https://github.com/mdreazul/Lambda-Calculus-Interpreter",
     isResearch: false,
   },
   {
